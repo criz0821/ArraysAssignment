@@ -1,7 +1,7 @@
 ﻿/*
  *  Author: Christopher Mejia
  *  Date: 1/31/19
- * 
+ *  Comments: This assignment demonstrates the use of an array
  */
 using System;
 
